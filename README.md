@@ -7,6 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/akhilonlyonx" target="blank"><img src="https://img.shields.io/twitter/follow/akhilonlyonx?logo=twitter&style=for-the-badge" alt="akhilonlyonx" /></a> </p>
 
+- 🔭 I’m currently working as **Software Developer and Building Scalable Aplliation**
+
+- 🌱 I’m currently learning **LLMs, LangChain, Cloud Infrastructure (AWS, GCP), and Advanced Frontend Frameworks.**
+
+- 👯 I’m looking to collaborate on **Scaling AI systems or integrating LLMs into innovative applications.**
+
+- 🤝 I’m looking for help with **Scaling AI systems or integrating LLMs into innovative applications.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Akhilesh-Chandewar](https://github.com/Akhilesh-Chandewar)
+
+- 📝 I regularly write articles on [https://medium.com/@akhil.chandewar00](https://medium.com/@akhil.chandewar00)
+
+- 💬 Ask me about **React, Node.js, AI-driven applications, and NLP.**
+
+- 📫 How to reach me **akhil.chandewar00@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/akhilesh-chandewar](https://www.linkedin.com/in/akhilesh-chandewar)
+
+- ⚡ Fun fact **I think I'm funny, but my code thinks otherwise!**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
